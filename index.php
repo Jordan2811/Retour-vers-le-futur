@@ -1,7 +1,7 @@
 <? php 
 date_default_timezone_set ( 'Europe / Paris' );
 date_default_timezone_set ( 'Europe / Paris' );
-$presenTime = new dateTime;
+$presenTime  new dateTime;
 date_default_timezone_set ( 'Europe / Paris' );
 $presenTime = new dateTime;
 $destinationTime = new dateTime ( '10 juillet 2992 08:00:00 ' );
